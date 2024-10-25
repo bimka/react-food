@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-food/static/css/main.fb75b92f.css",
+    "main.js": "/react-food/static/js/main.7f2aa8ed.js",
+    "static/js/453.05813dc1.chunk.js": "/react-food/static/js/453.05813dc1.chunk.js",
+    "index.html": "/react-food/index.html",
+    "main.fb75b92f.css.map": "/react-food/static/css/main.fb75b92f.css.map",
+    "main.7f2aa8ed.js.map": "/react-food/static/js/main.7f2aa8ed.js.map",
+    "453.05813dc1.chunk.js.map": "/react-food/static/js/453.05813dc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb75b92f.css",
+    "static/js/main.7f2aa8ed.js"
+  ]
+}
